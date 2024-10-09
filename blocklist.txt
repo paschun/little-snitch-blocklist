@@ -1,0 +1,7 @@
+{
+    "name": "My test blocklist",
+    "description": "this is the description for my test blocklist",
+    "denied-remote-domains": [
+        "bloobloo.com"
+    ]
+}
